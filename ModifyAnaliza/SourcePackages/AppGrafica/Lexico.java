@@ -1,5 +1,9 @@
 package AppGrafica;
 
+/**
+ *
+ * @author Misael Adame
+ */
 public class Lexico {
     
     final int TOKREC = 9;
